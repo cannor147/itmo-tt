@@ -10,7 +10,7 @@ Course was designed and taught by [Dmitry Shtukenberg](https://github.com/shd) a
 2. Normalization of lambda expression
 3. Type inference simply typed lambda calculus
 
-All [solutions (ru)](/lab/tasks.pdf) are stored in one file. In addition to main directory with [solutions](/lab) in Java, here is also a [solution](https://github.com/cannor147/itmo-tt/tree/master/parser) of the first task in Haskell.
+All [tasks (ru)](/lab/tasks.pdf) are stored in one file. In addition to main directory with [solutions](/lab) in Java, here is also a [solution](https://github.com/cannor147/itmo-tt/tree/master/parser) of the first task in Haskell.
 
 
 ## Homeworks
